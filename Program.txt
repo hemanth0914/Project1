@@ -6,5 +6,8 @@ Addition
 Subtraction
 Division
 
+Multiplication
+Modulus
+
 
 Thank you
