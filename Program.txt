@@ -6,7 +6,12 @@ Addition
 Subtraction
 Division
 
+Multiplication
+Modulus
+
 
 Thank you
+
+Done my changes
 
 Final copy
